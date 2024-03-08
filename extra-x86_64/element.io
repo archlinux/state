@@ -1,1 +1,1 @@
-element.io 1.11.58-1 1.11.58-1 9bd1cacf514e4bb837c3ae697b9716b0d5c0756e
+element.io 1.11.59-1 1.11.59-1 33b71c7d08fb9999e7edefd29aafeaadd7747c54
