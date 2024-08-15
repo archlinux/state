@@ -1,1 +1,1 @@
-ruby-http_parser.rb 0.8.0-3 0.8.0-3 33367d659e3341a7d759f165cb5423b5e9324f31
+ruby-http_parser.rb 0.8.0-4 0.8.0-4 87c42d9a441cdaa9d931277838c0951db62ce598
