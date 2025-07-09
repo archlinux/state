@@ -1,1 +1,1 @@
-testssl.sh 3.0.9-1 3.0.9-1 cdc61febb90b572569a89cc9a0f464b397ea7a15
+testssl.sh 3.2.1-1 3.2.1-1 b74f93aede86c85a0f9c332567449fcd802967e9
