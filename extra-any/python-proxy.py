@@ -1,1 +1,1 @@
-python-proxy.py 2.4.10-1 2.4.10-1 aed1f9b92360a4aa0c8a2a9e8026d36895aac397
+python-proxy.py 2.4.10-2 2.4.10-2 5500e154f646d9fc56c25755be7fddb402fb43cf
