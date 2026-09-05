@@ -1,1 +1,1 @@
-gunicorn 26.2.0-1 26.2.0-1 8ef97a7abbbd3cb33c32e6b75e6557b1c0d68cbc
+gunicorn 26.2.1-1 26.2.1-1 8ef372ca3e233a40f807fb5e6540d03bad1f4ae7
