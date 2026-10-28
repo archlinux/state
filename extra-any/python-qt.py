@@ -1,1 +1,1 @@
-python-qt.py 1.3.8-5 1.3.8-5 db5794be77b92b6a426987eb49b567e1619ee924
+python-qt.py 1.3.8-6 1.3.8-6 57134131e0bea0679ebdba419c588fb418fc29ae
