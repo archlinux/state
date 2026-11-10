@@ -1,1 +1,1 @@
-testssl.sh 3.2.4-1 3.2.4-1 bb793093c52338d418a1a993d11f3ef541565f70
+testssl.sh 3.2.5-1 3.2.5-1 75b0d7fb1b1ae6a2f4a0cd061ffbea670b5b45bf
