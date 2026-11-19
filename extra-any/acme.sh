@@ -1,1 +1,1 @@
-acme.sh 3.1.6-2 3.1.6-2 2580e536f19ed3653f73e214ef0384d5605ebe0c
+acme.sh 3.1.7-1 3.1.7-1 2fe18e7d6c217b9bfb1f8e2cdfccb6a30af80664
